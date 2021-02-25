@@ -146,7 +146,8 @@ h1 {
 .venue .swiper-container {
     width: 90%;
     height: 50vw;
-    margin: 3vw;
+    margin: 0 auto;
+    margin-top: 2vw;
     
 }
 .venue .swiper-slide {
@@ -229,6 +230,7 @@ h1 {
     font-size: 5vw;
     line-height: 5vw;
     font-family:BODONIB;
+    margin-top: 
     
 }
 .Monthly .right_area {
@@ -286,7 +288,7 @@ h1 {
     margin: 3vw 0 0;
 }
 .event h1 {
-    margin-top: 7vw;
+    margin-top: 5vw;
     color: #ba637c;
 }
 
@@ -330,7 +332,7 @@ h1 {
 }
 
 .mamonde .row {
-    width: 90%;
+    width: 100%;
     margin-top: 5vw;
     margin: 0 auto;
 }
@@ -341,7 +343,7 @@ h1 {
 }
 
 .mamonde .banner {
-   width: 90%;
+   width: 85%;
     margin: 3vw auto;
     
 }
