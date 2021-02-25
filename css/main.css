@@ -587,7 +587,11 @@ footer .mark {
 .venue .swiper1 {
     height: 40vh;
 }
-    
+
+.venue .swiper-slide img {
+    margin: 0 auto;
+}  
+
 .venue .swiper-container {
     width: 100%;
     height: 100%;
@@ -599,7 +603,27 @@ footer .mark {
     margin-top: 2vw; 
 }
 
+    .venue .venue1 {
+        background-image: url(../img/beauty1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
 
+    }
+    .venue .venue2 {
+        background-image: url(../img/beauty2.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+
+    }
+    .venue .venue3 {
+        background-image: url(../img/beauty3.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+
+    }
 .venue .s1_next {
     width: 3vw;
     right: 2vw;
@@ -620,7 +644,7 @@ footer .mark {
 .Monthly .left_area p {
     height: 100vh;
     box-sizing: border-box;
-    padding: 77vw 0 0 3vw;
+    padding: 75vw 0 0 3vw;
     color: #cd6969;
     text-shadow: 1px 1px 1px #212121;
     font-weight: bold;
@@ -691,8 +715,9 @@ footer .mark {
     width: 100%;
 }
 .event h1 {
-    margin-top: 7vw;
+    margin-top: 5vw;
     color: #ba637c;
+    font-size: 7vw;
 }
 
 .event h2 {
@@ -724,7 +749,7 @@ footer .mark {
     top: 13vh;
 }
 .mamonde .col-sm-6 {
-    
+    padding: 0;
 }
 
 .mamonde .row {
@@ -736,15 +761,16 @@ footer .mark {
     font-size: 6vw;
     text-align: center;
     color: #595754;
+    margin-top: 5vw;
 }
 
 .mamonde .banner {
     width: 80%;
-    margin: 4vw auto;
-    
-    
+    margin: 4vw auto;   
 }    
-    
+    .mamonde .col-sm-4 {
+        padding: 2vw;
+    }   
     footer {
     padding: 1.5vw 3vw;
     border-top: 1px solid #d49e55;
@@ -759,8 +785,8 @@ footer .footer_wrap {
     justify-content: space-between;
 }
 footer .footer_wrap .footer_logo {
-    width: 20vw;
-    margin: 10vw 0;
+    width: 18vw;
+    margin: 7vw 0;
 
 }
 
@@ -774,7 +800,7 @@ footer .footer_wrap .info address {
     margin: auto;
     line-height: 2vw;
     font-style: normal;
-    font-size: 2vw;
+    font-size: 1vw;
     float: left;
     text-indent:2vw;
 }
@@ -785,7 +811,7 @@ footer .footer_wrap .info address {
         
     }
 footer .footer_wrap .addr p {
-    font-size: 2vw;
+    font-size: 1vw;
     line-height: 1vw;
     float:left;
     text-indent:1vw;
@@ -816,7 +842,7 @@ footer .sns a {
 }
 
 footer .mark {
-    width: 2vw;
+    width: 3vw;
     float: left;
     margin-left: 2vw;
     margin-top: 1vw;
