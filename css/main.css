@@ -834,7 +834,7 @@ footer .mark {
     }
     footer .footer_wrap .footer_logo {
         width: 30vw;
-        margin: 10vw auto;
+        margin: 3vw auto;
 
     }
 
@@ -888,14 +888,14 @@ footer .mark {
     }
 
     footer .sns {
-        width: 50%;
+        width: 40%;
         display: flex;
         justify-content: space-between;
         margin: 0 auto;
-        margin-top: 3vw;
+        margin-bottom: 5vw;
     }
     footer .sns a {
-        width: 10vw;   
+        width: 8vw;   
     }
 
     footer .mark {
