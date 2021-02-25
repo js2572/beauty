@@ -598,12 +598,8 @@ footer .mark {
     margin: 0 auto;
     
 }
-.venue .swiper-slide a p{
-    font-size: 3vw;
-    margin-top: 2vw; 
-}
 
-    .venue .venue1 {
+   .venue .venue1 {
         background-image: url(../img/beauty1.jpg);
         background-size: cover;
         background-position: center;
@@ -625,8 +621,16 @@ footer .mark {
         background-position: center;
         background-repeat: no-repeat;
         height: 80vh;
+        
 
     }
+    
+.venue .swiper-slide a p{
+    font-size: 3vw;
+    margin-top: 2vw; 
+}
+
+ 
 .venue .s1_next {
     width: 3vw;
     right: 2vw;
@@ -773,9 +777,12 @@ footer .mark {
 }    
     .mamonde .col-sm-4 {
         padding: 2vw;
-    }   
+    }
+    .mamonde .col-sm-4 img {
+        width: 30vh;
+    }
     footer {
-    padding: 1.5vw 3vw;
+    padding: 1vw 6vw;
     border-top: 1px solid #d49e55;
     margin-top: 5vw;
     
