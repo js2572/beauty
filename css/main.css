@@ -326,11 +326,13 @@ h1 {
 
 .mamonde .col-sm-6 {
     padding: 0;
+    margin-top: 8vw;
 }
 
 .mamonde .row {
-    width: 100%;
+    width: 90%;
     margin-top: 5vw;
+    margin: 0 auto;
 }
 
 .mamonde h1 {
@@ -360,7 +362,7 @@ h1 {
 footer {
     padding: 3vw;
     border-top: 2px solid #d49e55;
-    margin-top: 2vw;
+    margin-top: 5vw;
     
 }
 
