@@ -827,7 +827,7 @@ footer .footer_wrap .addr p {
     margin-top:1vw;
 }
 footer .info ul li {
-    margin: 0.5vw;
+    margin: 2vw;
     float: left;
     text-align: center;
     font-size: 0.5vw;
@@ -836,7 +836,7 @@ footer .info ul li {
 footer .info ul li a:after {
     content: "|";
     float: right;
-    margin-left: 1vw;
+    margin-left: 3vw;
     color: #666;
 }
 
