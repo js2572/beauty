@@ -1,0 +1,58 @@
+* { margin: 0; padding: 0; }
+
+li {
+    list-style: none;
+}
+
+
+a { text-decoration: none; color: #333;}
+
+img { width: 100$;}
+
+.wrap {
+    width: 100%;
+    
+}
+
+header .logo {
+    padding: 2vw; box-sizing:border-box;
+        
+}
+
+header nav {
+    margin-top: 3wv;
+    margin-left: 5vw;
+    
+}
+
+header nav ul li {
+    margin: 0 2vw;
+}
+
+header nav ul li a {
+    font-size: 1vw;
+    white-space: nowrap;
+}  /*글자줄바꿈 방지*/
+
+
+.banner {
+    margin: 0 auto;
+    margin-top: 3vw;
+    width: 80%;
+}
+
+.box {
+    margin: 0 auto;
+    margin-top: 3vw;
+    width: 70%;
+}
+
+footer {
+    text-align: center;
+    height: 5vw;
+    background-color: #ccc;
+    margin-top: 5vw;
+    line-height: 5vw;
+    font-size: 0.8vw;
+}
+
