@@ -519,7 +519,7 @@ footer .mark {
     }
     header .mobile_menu .menu_in .member a.active {
         background-color: #212121;
-        color: #fff;
+        color: #333;
         border: 1px solid #212121;
     }
     header .mobile_menu .menu_in .icon {
