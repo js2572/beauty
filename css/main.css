@@ -44,7 +44,7 @@ header {
     position: absolute;
     z-index: 100;
     width: 100%;
-    height: 60px;
+    height: 80px;
     background-color: transparent;
     display: flex;
     justify-content: space-between;
@@ -622,6 +622,7 @@ footer .mark {
 
     .venue {
         margin-top: 15vw;
+        height: 100vh;
     }
 .venue h1 {
     font-size: 7vw;
@@ -842,6 +843,7 @@ footer .mark {
         padding: 1vw 6vw;
         border-top: 1px solid #d49e55;
         margin-top: 5vw;
+        box-sizing: border-box;
 
     }
 
