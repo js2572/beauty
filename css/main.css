@@ -455,11 +455,6 @@ footer .mark {
 
 
 
-/*태블릿*/
-@media screen and (max-width:960px) {
-    
-    
-}
 /*모바일*/
 @media screen and (max-width:480px) {
     header {
@@ -682,12 +677,14 @@ footer .mark {
     .venue .s1_next {
         width: 3vw;
         right: 2vw;
+	top: 40vh;
     }
 
 
     .venue .s1_prev {
         width: 3vw;
         right: 2vw;
+	top: 40vh;    
     }
 
     .Monthly {
@@ -802,13 +799,13 @@ footer .mark {
         width: 1.2vw;
         left:2vw;
         outline: none;
-        top: 13vh;
+        top: 18vh;
     }
     .slide .s2_next {
         width: 1.2vw;
         right: 2vw;
         outline: none;
-        top: 13vh;
+        top: 18vh;
     }
 	.mamonde { height:auto; }
     .mamonde .col-sm-6 {
