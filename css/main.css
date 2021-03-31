@@ -499,8 +499,8 @@ footer .mark {
     }
     header .mobile_menu button {
         position: absolute;
-        top: 50px;
-        right: 50px;
+        top: 30px;
+        right: 30px;
         width: 10vw;
         margin: 7vw 7.5vw;
     }
