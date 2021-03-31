@@ -162,7 +162,7 @@ h1 {
     position: relative;
 }
 .venue .venue1 {
-        background-image: url(https://cdn.jsdelivr.net/gh/js2572/beauty//img/beauty1.jpg);
+        background-image: url(../img/beauty1.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -170,7 +170,7 @@ h1 {
 
     }
     .venue .venue2 {
-        background-image: url(https://cdn.jsdelivr.net/gh/js2572/beauty//img/beauty2.jpg);
+        background-image: url(../img/beauty2.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -178,7 +178,7 @@ h1 {
 
     }
     .venue .venue3 {
-        background-image: url(https://cdn.jsdelivr.net/gh/js2572/beauty//img/beauty3.jpg);
+        background-image: url(../img/beauty3.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -222,7 +222,7 @@ h1 {
 }
 
 .Monthly .left_area {
-    background-image: url(https://cdn.jsdelivr.net/gh/js2572/beauty//img/mothly-best.jpg);
+    background-image: url(../img/mothly-best.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -455,6 +455,11 @@ footer .mark {
 
 
 
+/*태블릿*/
+@media screen and (max-width:960px) {
+    
+    
+}
 /*모바일*/
 @media screen and (max-width:480px) {
     header {
@@ -493,7 +498,9 @@ footer .mark {
         float: left;
     }
     header .mobile_menu button {
-        float: left;
+        position: absolute;
+        top: 50px;
+        right: 50px;
         width: 10vw;
         margin: 7vw 7.5vw;
     }
@@ -641,7 +648,7 @@ footer .mark {
 }
 
    .venue .venue1 {
-        background-image: url(https://cdn.jsdelivr.net/gh/js2572/beauty//img/beauty1.jpg);
+        background-image: url(../img/beauty1.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -649,7 +656,7 @@ footer .mark {
 
     }
     .venue .venue2 {
-        background-image: url(https://cdn.jsdelivr.net/gh/js2572/beauty//img/beauty2.jpg);
+        background-image: url(../img/beauty2.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -657,7 +664,7 @@ footer .mark {
 
     }
     .venue .venue3 {
-        background-image: url(https://cdn.jsdelivr.net/gh/js2572/beauty//img/beauty3.jpg);
+        background-image: url(../img/beauty3.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -677,14 +684,14 @@ footer .mark {
     .venue .s1_next {
         width: 3vw;
         right: 2vw;
-	top: 40vh;
+        top: 40vh;
     }
 
 
     .venue .s1_prev {
         width: 3vw;
         right: 2vw;
-	top: 40vh;    
+        top: 40vh;
     }
 
     .Monthly {
