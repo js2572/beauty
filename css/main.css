@@ -696,6 +696,7 @@ footer .mark {
 
     .Monthly {
         margin-top: -30vw;
+	    height: auto;
     }
     
     .Monthly .left_area {
