@@ -220,6 +220,9 @@ h1 {
     right: 2vw;
     outline: none;
 }
+.Monthly {
+	margin-top: -30vw;
+}
 
 .Monthly .left_area {
     background-image: url(../img/mothly-best.jpg);
