@@ -150,7 +150,7 @@ h1 {
 
 .venue .swiper-container {
     width: 90%;
-    height: 70vw;
+    height: 50vw;
     margin: 0 auto;
     margin-top: 2vw;
     
@@ -166,7 +166,7 @@ h1 {
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        height: 70vh;
+        height: 80vh;
 
     }
     .venue .venue2 {
@@ -174,7 +174,7 @@ h1 {
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        height: 70vh;
+        height: 80vh;
 
     }
     .venue .venue3 {
@@ -182,7 +182,7 @@ h1 {
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        height: 70vh;
+        height: 80vh;
         
 
     }
